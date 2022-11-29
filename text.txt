@@ -1,0 +1,1 @@
+git remote add origin https://lateu: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@github.com/lateu/tomcat-setup-ansible.git
